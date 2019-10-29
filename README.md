@@ -46,7 +46,7 @@ peerflix-server
 
 The application stores its current state (list of torrents) in `~/.config/peerflix-server/torrents.json`
 
-**full exapmle**
+**full exapmle** for `~/.config/peerflix-server/config.json`
 ```json
 {
         "connections":100,
@@ -77,6 +77,8 @@ The application stores its current state (list of torrents) in `~/.config/peerfl
         ]
 }
 ```
+
+- 有人做了汉化：[peerflix-server-zh](https://github.com/XIU2/peerflix-server-zh)
 
 ## Daemon
 
